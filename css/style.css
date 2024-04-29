@@ -11,3 +11,24 @@ body {
     font-family: 'Roboto', sans-serif;
 
 }
+
+.button {
+    font-size: .3125rem;
+}
+
+.fa-solid.fa-pen {
+
+    color: #6c757d;
+    margin-right: .3125rem;
+    border: 1.5px solid #6c757d;
+    border-radius: .3125rem;
+    padding: 5px 5px 5px 5px;
+}
+
+.fa-solid.fa-trash {
+
+    color: #6c757d;
+    border: .0938rem solid #6c757d;
+    border-radius: .3125rem;
+    padding: 5px 5px 5px 5px;
+}
